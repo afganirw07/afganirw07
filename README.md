@@ -29,7 +29,7 @@ I am a Student who wants to Learn Programming 💡💻
 
 - Integrating AI models to web applications
 
-### 📫 How to reach me
+###  How to reach me
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/codewithbernard/">
