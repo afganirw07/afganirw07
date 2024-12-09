@@ -8,7 +8,7 @@ My name is Afgan Irwansyah Hidayat. 👨‍💻 I have a profound passion for th
 Every line of code I write 🖋️💾 brings me closer to creating solutions that are not only effective 🛠️ but also innovative. 💡 With a strong desire to learn 📚 and grow 🌱, I strive to leverage technology to make a positive impact in the world. 🌍❤️
 For me, coding is not just about solving problems 🔍✅, but also about inspiring change 🌟 and turning new ideas into reality. ✨🤝
 
-**I am Currently Learning About 📚✨**
+**My Skill 📚✨**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html5"/>
@@ -30,24 +30,6 @@ For me, coding is not just about solving problems 🔍✅, but also about inspir
   
 </div>
 
-
-### 🤔 I’m looking for help with
-
-- Integrating AI models to web applications
-
-###  How to reach me
-
-<div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <!-- Stats -->
