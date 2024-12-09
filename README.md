@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+I am a Student Who Wants to Learn Programming 💡💻
 
 **I love working with**
 
