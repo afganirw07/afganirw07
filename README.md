@@ -59,6 +59,6 @@ For me, coding is not just about solving problems 🔍✅, but also about inspir
 
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afganirwansyahhidayat&theme=aura">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afganirwansyahhidayat&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15"">
 </div>
 
