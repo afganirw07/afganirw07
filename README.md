@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Student Who Wants to Learn Programming 💡💻
+I am a Student who wants to Learn Programming 💡💻
 
 **I love working with**
 
