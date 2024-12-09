@@ -1,6 +1,12 @@
-## Hi There 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Afganirwansyahhidayat" /> 
 
-I am a Student who wants to Learn Programming 💡💻
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Afgan+Irwansyah+Hidayat!;" />
+</h1>
+
+My name is Afgan Irwansyah Hidayat. 👨‍💻 I have a profound passion for the world of technology 💻✨, especially in innovation and software development. 🚀 Currently, I am diving into the fascinating world of coding, a thrilling journey 🌟 that opens doors to various possibilities. 🔑🌐
+Every line of code I write 🖋️💾 brings me closer to creating solutions that are not only effective 🛠️ but also innovative. 💡 With a strong desire to learn 📚 and grow 🌱, I strive to leverage technology to make a positive impact in the world. 🌍❤️
+For me, coding is not just about solving problems 🔍✅, but also about inspiring change 🌟 and turning new ideas into reality. ✨🤝
 
 **I am Currently Learning About 📚✨**
 
@@ -43,6 +49,7 @@ I am a Student who wants to Learn Programming 💡💻
   </a>
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Afganirwansyahhidayat&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
