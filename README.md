@@ -56,3 +56,9 @@ For me, coding is not just about solving problems 🔍✅, but also about inspir
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afganirwansyahhidayat&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afganirwansyahhidayat&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
+
+<h2 align="center">📈 Contribution Graph 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afganirwansyahhidayat&theme=aura">
+</div>
+
