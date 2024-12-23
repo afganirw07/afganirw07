@@ -29,18 +29,3 @@ For me, coding is not just about solving problems 🔍✅, but also about inspir
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome"/>
   
 </div>
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afganirwansyahhidayat&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afganirwansyahhidayat&theme=aura&hide_border=true" width="50%" alt="Github Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afganirwansyahhidayat&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
-
-<h2 align="center"> Contribution Graph </h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afganirwansyahhidayat&bg_color=220a28&&color=ffffff&line=c56a90&point=39ff14&area=true&hide_border=true" border-radius="200"">
-</div>
-
