@@ -133,16 +133,21 @@ const afgan = {
 
 ```
 
-🌟 Featured Projects
+## 🎵 Featured Song
+
 <div align="center">
-  <a href="https://github.com/afganirw07">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afganirw07&repo=your-repo-name&theme=tokyonight" />
+  <a href="https://open.spotify.com/track/7ouMYWpwJ422jRcDASZB7P" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e8d9f8577de0b3b8fcb2c865" alt="Blinding Lights Cover" width="300" />
   </a>
+  <p><i>“Blinding Lights” by The Weeknd</i></p>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
 <div align="center">
   <h3>💫 Thanks for visiting! Let's build something amazing together! 💫</h3>
 </div>
+
+
