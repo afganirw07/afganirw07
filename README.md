@@ -133,21 +133,42 @@ const afgan = {
 
 ```
 
-## 🎵 Featured Song
+## 🎵 My Music
 
 <div align="center">
-  <a href="https://open.spotify.com/track/7ouMYWpwJ422jRcDASZB7P" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.scdn.co/image/ab67616d0000b273e8d9f8577de0b3b8fcb2c865" alt="Blinding Lights Cover" width="300" />
+  <a href="https://open.spotify.com/user/31wizu5y3jpzqfiwetj2ek4dt4dy" target="_blank">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wizu5y3jpzqfiwetj2ek4dt4dy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
+      width="480" 
+      alt="Spotify Now Playing"
+    />
+     <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wizu5y3jpzqfiwetj2ek4dt4dy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
+      width="480" 
+      alt="Spotify Now Playing"
+    />
   </a>
-  <p><i>“Blinding Lights” by The Weeknd</i></p>
+  <br/>
+  <i>AURA = ♾️</i>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+---
 
 <div align="center">
-  <h3>💫 Thanks for visiting! Let's build something amazing together! 💫</h3>
-</div>
+  
+### 🙌 Thank You for Visiting!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+👋;Let's+build+something+great+together!+🚀;Always+learning+and+growing!+🌱;Feel+free+to+connect+with+me!+💬)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://c.tenor.com/noasUj1aGxkAAAAd/tenor.gif" width="300" alt="Squid Game Salesman GIF" />
+  <img src="https://c.tenor.com/noasUj1aGxkAAAAd/tenor.gif" width="300" alt="Squid Game Salesman GIF" />
+  <img src="https://c.tenor.com/noasUj1aGxkAAAAd/tenor.gif" width="300" alt="Squid Game Salesman GIF" />
+</p>
+
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories! ⭐
+</p>
 
 
