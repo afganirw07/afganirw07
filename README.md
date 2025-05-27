@@ -139,12 +139,12 @@ const afgan = {
   <a href="https://open.spotify.com/user/31wizu5y3jpzqfiwetj2ek4dt4dy" target="_blank">
     <img 
       src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wizu5y3jpzqfiwetj2ek4dt4dy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
-      width="480" 
+      width="200" 
       alt="Spotify Now Playing"
     />
      <img 
       src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wizu5y3jpzqfiwetj2ek4dt4dy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
-      width="480" 
+      width="200" 
       alt="Spotify Now Playing"
     />
   </a>
@@ -161,7 +161,6 @@ const afgan = {
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+👋;Let's+build+something+great+together!+🚀;Always+learning+and+growing!+🌱;Feel+free+to+connect+with+me!+💬)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://c.tenor.com/noasUj1aGxkAAAAd/tenor.gif" width="300" alt="Squid Game Salesman GIF" />
   <img src="https://c.tenor.com/noasUj1aGxkAAAAd/tenor.gif" width="300" alt="Squid Game Salesman GIF" />
   <img src="https://c.tenor.com/noasUj1aGxkAAAAd/tenor.gif" width="300" alt="Squid Game Salesman GIF" />
 </p>
