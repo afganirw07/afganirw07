@@ -139,12 +139,12 @@ const afgan = {
   <a href="https://open.spotify.com/user/31wizu5y3jpzqfiwetj2ek4dt4dy" target="_blank">
     <img 
       src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wizu5y3jpzqfiwetj2ek4dt4dy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
-      width="200" 
+      width="300" 
       alt="Spotify Now Playing"
     />
      <img 
       src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wizu5y3jpzqfiwetj2ek4dt4dy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
-      width="200" 
+      width="300" 
       alt="Spotify Now Playing"
     />
   </a>
