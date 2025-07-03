@@ -27,7 +27,7 @@
 <td valign="top" width="50%">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Coding gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHE3bXFvcGN3aHdjcXd3MXVsOXBnbmtva2hqNzFsdGF0cDQ2MmZxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" alt="Coding gif"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=afganirw07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
