@@ -214,7 +214,6 @@ const afgan = {
     />
   </a>
   <br/>
-  <i>AURA = ♾️</i>
 </div>
 
 ---
