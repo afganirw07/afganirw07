@@ -10,13 +10,15 @@
 <tr>
 <td valign="top" width="50%">
 
-### 🚀 About Me
+### 🚀 About Me  
 
-- 🔭 Currently building **e-commerce solutions** with React, Express & MongoDB
-- 🌱 Learning **advanced backend development** and **AI-enhanced interfaces**
-- 💡 Passionate about creating **elegant frontend & backend solutions**
-- 🎯 Love solving **real-world problems** with clean, maintainable code
-- ⚡ Fun fact: I believe great UI/UX can change the world!
+- 👤 My name is **Afgan Irwansyah Hidayat**  
+- 🎓 Student at **SMK Taruna Bhakti**, majoring in **Software Engineering**  
+- 💻 Passionate about **web & mobile application development**, eager to explore more in **software engineering**  
+- 🎯 Goal: Becoming a professional **Software Engineer**  
+- 🎶 I love **listening to music** and 🎮 **playing games** in my free time  
+- ⚡ Fun fact: I often come up with **coding ideas while listening to music**  
+
 
 ### 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Email-afganirw07%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:afganirw07@gmail.com)
@@ -42,7 +44,6 @@
 
 <div align="center">
 
-### Frontend Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -50,6 +51,31 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Semantic UI](https://img.shields.io/badge/Semantic%20UI-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Evergreen](https://img.shields.io/badge/Evergreen-00783E?style=for-the-badge&logo=evergreen&logoColor=white)
+![Grommet](https://img.shields.io/badge/Grommet-7D4CDB?style=for-the-badge&logo=grommet&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Anime.js](https://img.shields.io/badge/Anime.js-FF355A?style=for-the-badge&logo=anime&logoColor=white)
+![React Spring](https://img.shields.io/badge/React%20Spring-000000?style=for-the-badge&logo=reactspring&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![React Bootstrap](https://img.shields.io/badge/React%20Bootstrap-41E0FD?style=for-the-badge&logo=reactbootstrap&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Headless UI](https://img.shields.io/badge/Headless%20UI-66E3FF?style=for-the-badge&logo=headlessui&logoColor=black)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![Emotion](https://img.shields.io/badge/Emotion-C865B9?style=for-the-badge&logo=emotion&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-4D2A0C?style=for-the-badge&logo=zustand&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-2D2D2D?style=for-the-badge&logo=jotai&logoColor=green)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
