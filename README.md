@@ -21,7 +21,7 @@
 
 
 ### 📫 Let's Connect
-[![Email](https://img.shields.io/badge/Email-afganirw07%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:afgandevs@gmail.com)
+[![Email](https://img.shields.io/badge/Email-afgandevs%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:afgandevs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afganirw07-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afganirw07/)
 [![GitHub](https://img.shields.io/badge/GitHub-afganirw07-black?style=flat-square&logo=github&logoColor=white)](https://github.com/afganirw07)
 
