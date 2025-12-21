@@ -1,39 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:5b21b6,100:7c3aed&height=300&section=header&text=Afgan%20Irwansyah%20Hidayat&desc=Fullstack%20Developer&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=55" />
 </div>
-<table>
-<tr>
-<td valign="top" width="50%">
 
-### 🚀 About Me  
+## 👨‍💻 About Me
 
-- 👤 My name is **Afgan Irwansyah Hidayat**  
-- 🎓 Student at **SMK Taruna Bhakti**, majoring in **Software Engineering**  
-- 💻 Passionate about **web & mobile application development**, eager to explore more in **software engineering**  
-- 🎯 Goal: Becoming a professional **Software Engineer**  
-- 🎶 I love **listening to music** and 🎮 **playing games** in my free time  
-- ⚡ Fun fact: I often come up with **coding ideas while listening to music**  
+- 🚀 **Fullstack Developer** focused on building modern, scalable, and production-ready applications  
+- 🎓 **Software Engineering student** at **SMK Taruna Bhakti**  
+- 🧠 Strong experience across **Frontend, Backend, and DevOps**  
+- ⚙️ Passionate about **clean code, system design, and API development**  
+- 📈 Always learning, shipping, and improving code quality  
 
-
-### 📫 Let's Connect
-[![Email](https://img.shields.io/badge/Email-afgandevs%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:afgandevs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-afganirw07-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afganirw07/)
-[![GitHub](https://img.shields.io/badge/GitHub-afganirw07-black?style=flat-square&logo=github&logoColor=white)](https://github.com/afganirw07)
-
-</td>
-<td valign="top" width="50%">
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHE3bXFvcGN3aHdjcXd3MXVsOXBnbmtva2hqNzFsdGF0cDQ2MmZxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" alt="Coding gif"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=afganirw07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-</td>
-</tr>
-</table>
-
----
+💡 I enjoy turning complex problems into simple, efficient, and maintainable software solutions.
 
 ## 🛠️ Tech Arsenal
 
@@ -143,6 +120,26 @@
 
 </div>
 
----
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="mailto:afgandevs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-afgandevs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/afganirw07/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Afgan%20Irwansyah%20Hidayat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/afganirw07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-afganirw07-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://t.me/afganirh" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@afganirh-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/afgan3404" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-afgan3404-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+
 
 
