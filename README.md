@@ -1,11 +1,6 @@
-# Hi there! 👋 I'm Afgan Irwansyah Hidayat
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%26+Node.js+Enthusiast;Clean+Code+Advocate;Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:5b21b6,100:7c3aed&height=300&section=header&text=Afgan%20Irwansyah%20Hidayat&desc=Fullstack%20Developer&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=55" />
 </div>
-
----
-
 <table>
 <tr>
 <td valign="top" width="50%">
