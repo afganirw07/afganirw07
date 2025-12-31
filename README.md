@@ -52,6 +52,10 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 ![NativeUI](https://img.shields.io/badge/NativeUI-333333?style=for-the-badge)
+![Launch UI](https://img.shields.io/badge/Launch_UI-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MVPBlocks](https://img.shields.io/badge/MVPBlocks-6366F1?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Origin UI](https://img.shields.io/badge/Origin_UI-111827?style=for-the-badge&logo=react&logoColor=white)
+
 
 ### Backend & Database
 
@@ -84,6 +88,13 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+### Realtime Communication
+
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebSocket JS](https://img.shields.io/badge/WebSocket_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![WebSocket Go](https://img.shields.io/badge/WebSocket_Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![WebSocket Python](https://img.shields.io/badge/WebSocket_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### DevOps & Deployment
