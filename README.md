@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:5b21b6,100:7c3aed&height=300&section=header&text=Afgan%20Irwansyah%20Hidayat&desc=Fullstack%20Developer&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=55" />
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Mew
 
 - 🚀 **Fullstack Developer** focused on building modern, scalable, and production-ready applications  
 - 🎓 **Software Engineering student** at **SMK Taruna Bhakti**  
