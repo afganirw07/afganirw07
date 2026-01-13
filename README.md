@@ -135,6 +135,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/WSL-Linux_on_Windows-0A97F5?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laragon-FF6A00?style=for-the-badge&logo=laragon&logoColor=white" /> 
 </p>
 
 </div>
