@@ -84,6 +84,15 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
+### Security & Cryptography
+
+![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Steganography](https://img.shields.io/badge/Steganography-4B0082?style=for-the-badge)
+![AES Encryption](https://img.shields.io/badge/AES-Encryption-00599C?style=for-the-badge)
+![RSA Encryption](https://img.shields.io/badge/RSA-Encryption-8A2BE2?style=for-the-badge)
+![SHA Hashing](https://img.shields.io/badge/SHA-Hashing-FF6F00?style=for-the-badge)
+![TLS/SSL](https://img.shields.io/badge/TLS%2FSSL-Secure-228B22?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
 ### Data Science & Machine Learning
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
