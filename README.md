@@ -6,7 +6,7 @@
 
 - 🚀 **Fullstack Developer** focused on building modern, scalable, and production-ready applications  
 - 🎓 **Software Engineering student** at **SMK Taruna Bhakti**  
-- 🧠 Strong experience across **Frontend, Backend, and DevOps**  
+- 🧠 Strong experience across **Frontend, Backend, Machine Learning, and DevOps**  
 - ⚙️ Passionate about **clean code, system design, and API development**  
 - 📈 Always learning, shipping, and improving code quality  
 
