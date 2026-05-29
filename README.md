@@ -167,6 +167,16 @@
   <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white" /> 
 </p>
 
+### Data Structures & Algorithms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linear_&_Binary_Search-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sorting_Algorithms-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linked_Lists-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stacks_&_Queues-38B2AC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hash_Maps-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Trees_&_Graphs-228B22?style=for-the-badge" />
+</p>
 </div>
 
 ## 🤝 Let’s Connect
